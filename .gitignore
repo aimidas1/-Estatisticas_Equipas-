@@ -1,0 +1,10 @@
+.env
+__pycache__/
+targets/
+pipeline/Estatistica_equipa/*.csv
+pipeline/xg por minuto/*.csv
+pipeline/Coach/*.csv
+pipeline/Referees/*.csv
+pipeline/Incidents/*.csv
+pipeline/Estasticas_Jogadores/*.csv
+pipeline/polymarket data/*.csv
